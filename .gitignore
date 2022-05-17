@@ -137,3 +137,4 @@ dmypy.json
 *.gif
 *.jpeg
 pytorch_tutorials/data/
+data/
