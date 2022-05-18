@@ -138,3 +138,5 @@ dmypy.json
 *.jpeg
 pytorch_tutorials/data/
 data/
+image_colorization/
+image_super_resolution/
